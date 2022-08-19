@@ -1,7 +1,9 @@
 # wgesad22_transformers
-Minicurso de NLP-Transformers oferecido no âmbito do WGESAD22
+## WGESAD22 - WORKSHOP DO GRUPO DE ENGENHARIA DE SOFTWARE ADAPTATIVO E DISTRIBUÍDO
 
 http://www.uece.br/gesad/wgesad/
+
+## Orientador: Prof. PhD Paulo Henrique Mendes Maia
 
 ---
 
@@ -12,5 +14,6 @@ Aprofundando: Modelos em Português, Fine Tuning, Datasets para treinamento, Usa
 Pré-requisitos: Python básico e noções de Machine Learning
 
 ---
-Anderson Martins Gomes
+Facilitador: Anderson Martins Gomes
+
 https://www.linkedin.com/in/amartinsg/
